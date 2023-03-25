@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.Form1.resources
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\bin\Debug\number_guess_game.exe.config
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\bin\Debug\number_guess_game.exe
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\bin\Debug\number_guess_game.pdb
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.exe
+C:\Users\Administrator\Desktop\number_guess_game\number_guess_game\obj\Debug\number_guess_game.pdb
